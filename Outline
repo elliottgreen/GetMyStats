@@ -1,0 +1,11 @@
+Outline:
+
+Register for an API key from Garmin Connect and familiarize yourself with their API documentation.
+
+Use the requests library in Python to make API calls to Garmin Connect, and use the json() method to parse the response into a Python dictionary.
+
+Use the gspread library to interact with the Google Sheets API and write the data to the desired cell.
+
+Use FastAPI to build an endpoint to trigger the above steps.
+
+Set up a scheduler (like APScheduler or schedule) to run your script automatically on a set schedule.
